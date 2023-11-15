@@ -154,6 +154,11 @@ of the boxplot.
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/abhishek-x"><img src="https://avatars.githubusercontent.com/u/70960570?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Aggarwal</b></sub></a><br /></td>
+    <td align="center">
+       <a href="https://github.com/abhishek-x"><img src="https://avatars.githubusercontent.com/u/70960570?v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Aggarwal</b></sub></a>
+    </td>
+    <td align="center">
+       <a href="https://github.com/2707-Sakshi"><img src="https://dino-chrome.com/static/images/dino.jpg" width="100px;" alt=""/><br /><sub><b>Sakshi</b></sub></a>
+    </td>
   </tr>
 </table>
